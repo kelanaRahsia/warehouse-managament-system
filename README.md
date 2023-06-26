@@ -1,7 +1,8 @@
 # warehouse-managament-system
 This is the project that I make for my project as a First Year university student. <br>
 My purpose to do this project is to sharpen my c++ knowledge.<br>
-You also need to **download connector file** so that you can connect your c++ with mysql. For this project I used **connector 8.0**. <br>
+You also need to **download connector file** so that you can connect your c++ with mysql, and also download **XAMPP** to deploy your local MySQL database server. <br>
+For this project I used **connector 8.0**. <br>
 You can download the connector file via this link : https://dev.mysql.com/downloads/connector/cpp/ <br>
 There are 3 file in this repo:<br>
  - db_cppmysql.sql  (This file print all my data from the table)<br>
